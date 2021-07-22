@@ -12,3 +12,15 @@
 8.emails
 9.teams
 10.gallery
+# English Part
+1.home
+2.product
+3.service
+4.blog
+5.course
+6.download
+7.aboutu
+8.email
+9.team
+10.galler
+
